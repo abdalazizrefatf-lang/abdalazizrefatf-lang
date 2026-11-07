@@ -58,7 +58,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/abd-alaziz-fanuona-1a70043ab" target="_blank">
+<a href="https://linkedin.com/in/abd-alaziz-fanuona-1a70043ab" target="_blank">
   <img src="https://img.shields.io/badge/-Abdalaziz%20Fanouna-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:abdalazizrefat.f@gmail.com" target="_blank">
