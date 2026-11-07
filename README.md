@@ -58,10 +58,10 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="www.linkedin.com/in/abd-alaziz-fanuona-1a70043ab" target="_blank">
   <img src="https://img.shields.io/badge/-Abdalaziz%20Fanouna-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+<a href="mailto:abdalazizrefat.f@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
